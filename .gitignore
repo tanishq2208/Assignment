@@ -1,0 +1,3 @@
+node_modules
+services/googlesheetservice/.env
+services/smsservice/.env
